@@ -1,8 +1,8 @@
 # Sudoku Validator
 
-## Language Used - Python3 (version 3.8)
-## Tools Used - IDLE, COLAB
-## Uploaded files info
+### Language Used - Python3 (version 3.8)
+### Tools Used - IDLE, COLAB
+### Uploaded files info
 
 1. annotated_board.py - This file defines the functions and conditions of suduko
 2. Question_3.ipynb - This file defines with DFS search algorithm for puzzles where a solution can't be solved solely via deduction. It shows the output of the given input file. i.e., this code runs the text files and provides the solution.
