@@ -1,7 +1,7 @@
-# Sudoku
+# Sudoku Validator
 
 ## Language Used - Python3 (version 3.8)
-
+## Tools Used - IDLE, COLAB
 ## Uploaded files info
 
 1. annotated_board.py - This file defines the functions and conditions of suduko
