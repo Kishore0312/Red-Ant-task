@@ -1,6 +1,6 @@
 # Sudoku
 
-##Language Used - Python3 (version 3.8)
+## Language Used - Python3 (version 3.8)
 
 ## Uploaded files info
 
