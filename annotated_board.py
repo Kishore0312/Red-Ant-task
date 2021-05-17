@@ -106,12 +106,7 @@ class AnnotatedBoard:
         self.unknowns = count
         return count
 
-    def full_deduce(self):
-        
-        return (self.block_deduce() and
-                self.row_deduce() and
-                self.col_deduce())
-
+    
     def is_valid(self, row=None, col=None):
        
         return (self.block_elimination(row, col) and
