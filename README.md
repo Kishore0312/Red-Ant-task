@@ -6,7 +6,7 @@
 
 1. annotated_board.py - This file defines the functions and conditions of suduko
 2. Question_3.ipynb - This file defines with DFS search algorithm for puzzles where a solution can't be solved solely via deduction. It shows the output of the given input file. i.e., this code runs the text files and provides the solution.
-3.  Input1.sudoku, empty.sudoku - These are the input files. i.e., Input1.sudoku is a intermediate level existing puzzle and empty.sudoku is an empty 9*9 where the code itself produces own optimized solutions. The code produces random output solution for empty.sudoku file. In the input file, the unfilled spaces are defined in '.(dot)' format.
+3.  Input1.sudoku, empty.sudoku - These are the input files. i.e., Input1.sudoku is a intermediate level existing puzzle and empty.sudoku is an empty 9*9 where the code itself produces this is empty. In the input file, the unfilled spaces are defined in '.(dot)' format.
 
 ## Functions
 ### Important functions:
@@ -26,7 +26,5 @@
 2. Input1 
 ![Input1](https://user-images.githubusercontent.com/59074144/116353552-9a82ae80-a814-11eb-81b5-26b697a34c49.png)
 
-3. Output (for empty.sudoku)
-![Output_empty1](https://user-images.githubusercontent.com/59074144/116353958-55ab4780-a815-11eb-9002-48f476075e04.png)
 
 
